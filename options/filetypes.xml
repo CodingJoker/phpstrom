@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping pattern="*.blade.php" type="Blade" />
+      <mapping pattern="*.blade.php" type="PHP" />
+    </extensionMap>
+  </component>
+</application>
